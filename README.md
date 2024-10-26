@@ -1,5 +1,5 @@
 Hello there!
-This is my first website made with TailWindCSS (and a bit of JS - Java Script)!
+This is my first website made with TailwindCSS (and a bit of JS - Java Script)!
 I wanna give all credits to Dave Gray for the very professional-made tutorial on YouTube for begginers!
 
 With all this in mind - enjoy my site!
